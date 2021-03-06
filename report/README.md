@@ -27,3 +27,17 @@ corresponding name.
   - Individual: 6 pages 
   - Pairs: 8 pages 
   - Threes: 10 pages 
+
+Notes
+-------------------
+## Overview 
+
+## Introduction 
+
+## Data
+
+## Exploration and analysis
+
+## Discussion & Conclusions
+
+## References
