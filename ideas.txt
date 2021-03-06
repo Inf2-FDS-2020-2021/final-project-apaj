@@ -9,3 +9,5 @@
 - Weather
 - Night time rides with relevance to Covid-19 restrictions.
 - Lockdown rule breakers ? ;)
+
+- We need to pull all of 2019 and 2020 data. We want to restrict potential confounding varibales based on natural seasonal variation in pre and post lockdown.
