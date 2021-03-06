@@ -7,3 +7,5 @@
 - Difference between trips on weekends and weekdays.
 - Seasonal effects
 - Weather
+- Night time rides with relevance to Covid-19 restrictions.
+- Lockdown rule breakers ? ;)
