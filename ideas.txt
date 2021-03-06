@@ -1,0 +1,9 @@
+- Line graph visualisation for the changes over number of trips
+- Overlay data over the map of Edinburgh
+- Null hypothesis and confidence intervals to see if the pre-pandemic and post-pandemic rentals were any different.
+- Length of trips increased ?
+	- Was it a leisure activity or did people use the bikes for commuting. 
+- University student influx affect on the bikes
+- Difference between trips on weekends and weekdays.
+- Seasonal effects
+- Weather
