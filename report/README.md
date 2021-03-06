@@ -30,14 +30,15 @@ corresponding name.
 
 Notes
 -------------------
-## Overview 
 
-## Introduction 
+###Overview 
 
-## Data
+###Introduction 
 
-## Exploration and analysis
+###Data
 
-## Discussion & Conclusions
+###Exploration and analysis
 
-## References
+###Discussion & Conclusions
+
+###References
