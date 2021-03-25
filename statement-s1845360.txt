@@ -1,0 +1,14 @@
+How work was divided and contributions made:
+* First off it's important to note that the entire study was a team effort. Most coding
+  and all of the write up was done when we were on a call together.
+* Both Andrej and I took part in an initial brainstorming session to raise potential
+  interesting questions. 
+* I wrote the code for downloading the data and processing it all into the data sets we would go 
+  on to use. 
+* I then explored the data sets to try answer as many of our initial questions we raised to
+  find out which ones were relevant and plotted them in their most basic forms for exploratory
+  means only. 
+* Andrej turned the graphs we decided to go forward with into visually appealing forms.
+* When it came to the main report I helped in outlining the main points with Andrej as he wrote
+  up all the finalised text. 
+  
