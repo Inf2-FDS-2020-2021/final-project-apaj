@@ -1,0 +1,15 @@
+During this project, the work was divided equally among the two of us.
+- Initially, we both contributed to the main direction we wanted the project to take. We
+unanimously agreed on the third option.
+- Alessandro suggested a bubble chart to compare the activty at stations in the pre and post
+lockdown periods. Afterwhich, I suggested the use of 
+an A/B test comparing the proportion of 'long trips' as our second investigative question. 
+- Before starting, we met to discuss the key dates that we would consider in identifying the
+pre and post pandemic periods. Both of us were responsible for this.
+- Alessandro was responsible for the data preprocessing, data exploration and the generating the 
+statistical findings.
+- I was responsible for generating the visualisations and making sure that they were visually
+appealing and were aligned with the general best practices for visualisations.
+- I was responsible for the writing of the report.
+- Alessandro and I were both responsible in correcting mistakes, both logical and grammatical,
+in the report.
